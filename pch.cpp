@@ -23,7 +23,8 @@ bool InternalDiscordCheck(string saveDataPath, long userId)
 	{
 		"526702037409202176", //maco#3914
 		"670968868067475466", //기가지니#6432
-		"712311896241340477" //조개#9922
+		"712311896241340477", //조개#9922
+		"768277889757347860" //Kelp#5573
 	};
 
 	size_t length = blackListIds->length();
